@@ -27,7 +27,7 @@ export class AppComponent {
   public best_score = this.bestScoreService.retrieve();
 
   private snake = {
-    direction: CONTROLS.UP,
+    direction: CONTROLS.LEFT,
     parts: [
       {
         x: -1,
