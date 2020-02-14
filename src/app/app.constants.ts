@@ -12,7 +12,7 @@ export const COLORS = {
   FRUIT: '#EC644B',
   HEAD: '#C8F7C5',
   BODY: '#C8F7C5',
-  BOARD: '9086BD',
+  BOARD: '#9086BD',
   OBSTACLE: '#383522'
 };
 
