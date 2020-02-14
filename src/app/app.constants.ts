@@ -8,7 +8,7 @@ export const CONTROLS = {
 };
 
 export const COLORS = {
-  GAME_OVER: '#D24D57',
+  GAME_OVER: '#D24D5F',
   FRUIT: '#EC644B',
   HEAD: '#336E7B',
   BODY: '#C8F7C5',
