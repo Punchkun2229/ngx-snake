@@ -196,7 +196,7 @@ export class AppComponent {
   }
 
   eatFruit(): void {
-    this.score++;
+    this.score+2;
 
     let tail = Object.assign({}, this.snake.parts[this.snake.parts.length - 1]);
 
