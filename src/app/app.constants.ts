@@ -17,7 +17,7 @@ export const COLORS = {
 };
 
 export const GAME_MODES = {
-  classic: 'Classic',
-  no_walls: 'No Walls',
-  obstacles: 'Obstacles'
+  classic: 'ดั้งเดิม',
+  no_walls: 'ไร้กำแพง',
+  obstacles: 'มีอุปสรรค'
 };
